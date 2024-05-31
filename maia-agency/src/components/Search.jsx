@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import banner from '../assets/banner.svg'
+import banner from '../assets/image/banner.svg'
 import { IoSearchOutline } from "react-icons/io5";
 
 function Search({selectedTag}) {

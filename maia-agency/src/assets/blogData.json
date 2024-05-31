@@ -1,0 +1,129 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "title": "Les opportunités de carrière dans les métiers rares",
+          "description": "Découvrez comment nous aidons les individus à se reconvertir dans des carrières peu communes mais essentielles, et pourquoi ces métiers sont cruciaux pour notre société.",
+          "content": "Dans un monde où certains métiers deviennent de plus en plus rares, notre entreprise s'est donnée pour mission de guider les personnes désireuses de changer de voie professionnelle vers ces niches essentielles mais souvent négligées. Ce billet de blog explore les différentes opportunités offertes dans des secteurs comme celui de l'électricité, la plomberie, et bien d'autres métiers spécialisés qui manquent de professionnels qualifiés. En choisissant ces voies, non seulement vous sécurisez un emploi, mais vous contribuez également de manière significative à la société...",
+          "tags": ["Reconversion professionnelle", "Métiers rares", "Électricien", "Sécurité d'emploi"],
+          "created_at": "2024-01-15T12:00:00Z",
+          "updated_at": "2024-01-20T12:00:00Z",
+          "coverImage": {
+            "data": {
+              "id": 1,
+              "attributes": {
+                "path": "/images/blog/cover1.jpg",
+                "altText": "Un électricien au travail, un métier en pénurie",
+                "caption": "Reconversion réussie : de bureau à chantier",
+                "width": 800,
+                "height": 600,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_cover1.jpg",
+                    "width": 200,
+                    "height": 150,
+                    "url": "/images/blog/thumbnails/thumbnail_cover1.jpg"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "title": "Pourquoi choisir une carrière dans l'hôtellerie maintenant ?",
+          "description": "Avec une pénurie de professionnels qualifiés dans l'hôtellerie, c'est le moment idéal pour se lancer. Voici ce que vous devez savoir.",
+          "content": "L'industrie hôtelière souffre d'une pénurie aiguë de main-d'œuvre qualifiée. Dans cet article, nous discutons des raisons pour lesquelles maintenant est le moment parfait pour envisager une carrière dans l'hôtellerie. Nous abordons également les défis et les récompenses de cette industrie, fournissant des perspectives réelles et des conseils pratiques pour ceux qui souhaitent faire le saut...",
+          "tags": ["Hôtellerie", "Carrières en pénurie", "Formation", "Opportunités de carrière"],
+          "created_at": "2024-02-10T12:00:00Z",
+          "updated_at": "2024-02-15T12:00:00Z",
+          "coverImage": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "path": "/images/blog/cover2.jpg",
+                "altText": "Un chef de cuisine en action",
+                "caption": "De la passion à la profession : le parcours d'un chef",
+                "width": 800,
+                "height": 600,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_cover2.jpg",
+                    "width": 200,
+                    "height": 150,
+                    "url": "/images/blog/thumbnails/thumbnail_cover2.jpg"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "title": "La montée des techniciens en énergies renouvelables",
+          "description": "Explorez la croissance rapide des carrières dans le secteur des énergies renouvelables et comment vous pouvez vous y reconvertir.",
+          "content": "Alors que le monde s'oriente de plus en plus vers des sources d'énergie durables, la demande pour des techniciens qualifiés dans les énergies renouvelables ne cesse de croître. Cet article détaille les différentes voies de formation disponibles pour ceux qui souhaitent se lancer dans ce secteur d'avenir. Nous discutons également des défis et des bénéfices de ce choix de carrière, offrant un aperçu réaliste des possibilités d'emploi et de progression.",
+          "tags": ["Énergies renouvelables", "Formation", "Emplois verts", "Technicien"],
+          "created_at": "2024-03-01T12:00:00Z",
+          "updated_at": "2024-03-05T12:00:00Z",
+          "coverImage": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "path": "/images/blog/cover3.jpg",
+                "altText": "Technicien éolien en action",
+                "caption": "Naviguer dans le futur : Carrières dans les énergies renouvelables",
+                "width": 800,
+                "height": 600,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_cover3.jpg",
+                    "width": 200,
+                    "height": 150,
+                    "url": "/images/blog/thumbnails/thumbnail_cover3.jpg"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "title": "Réinventer sa carrière dans la cybersécurité",
+          "description": "La demande pour les experts en cybersécurité est en hausse. Découvrez comment vous pouvez faire partie de ce domaine dynamique et crucial.",
+          "content": "Avec l'augmentation constante des menaces numériques, la cybersécurité est devenue un champ essentiel pour la protection des informations et des systèmes. Cet article explore les compétences nécessaires pour réussir dans la cybersécurité, les formations disponibles et les types de rôles que vous pourriez occuper. Que vous soyez un novice en technologie ou que vous cherchiez à affiner vos compétences, il existe des opportunités abondantes dans ce secteur.",
+          "tags": ["Cybersécurité", "Carrière technologique", "Formation", "Sécurité des données"],
+          "created_at": "2024-04-12T12:00:00Z",
+          "updated_at": "2024-04-17T12:00:00Z",
+          "coverImage": {
+            "data": {
+              "id": 4,
+              "attributes": {
+                "path": "/images/blog/cover4.jpg",
+                "altText": "Expert en cybersécurité devant des écrans de code",
+                "caption": "Protéger l'avenir : Les pionniers de la cybersécurité",
+                "width": 800,
+                "height": 600,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_cover4.jpg",
+                    "width": 200,
+                    "height": 150,
+                    "url": "/images/blog/thumbnails/thumbnail_cover4.jpg"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }      
+    ]
+  }
+  
