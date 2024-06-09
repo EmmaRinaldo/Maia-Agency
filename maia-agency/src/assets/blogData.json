@@ -1,129 +1,13 @@
 {
     "data": [
-      {
-        "id": 1,
-        "attributes": {
-          "title": "Les opportunités de carrière dans les métiers rares",
-          "description": "Découvrez comment nous aidons les individus à se reconvertir dans des carrières peu communes mais essentielles, et pourquoi ces métiers sont cruciaux pour notre société.",
-          "content": "Dans un monde où certains métiers deviennent de plus en plus rares, notre entreprise s'est donnée pour mission de guider les personnes désireuses de changer de voie professionnelle vers ces niches essentielles mais souvent négligées. Ce billet de blog explore les différentes opportunités offertes dans des secteurs comme celui de l'électricité, la plomberie, et bien d'autres métiers spécialisés qui manquent de professionnels qualifiés. En choisissant ces voies, non seulement vous sécurisez un emploi, mais vous contribuez également de manière significative à la société...",
-          "tags": ["Reconversion professionnelle", "Métiers rares", "Électricien", "Sécurité d'emploi"],
-          "created_at": "2024-01-15T12:00:00Z",
-          "updated_at": "2024-01-20T12:00:00Z",
-          "coverImage": {
-            "data": {
-              "id": 1,
-              "attributes": {
-                "path": "/images/blog/cover1.jpg",
-                "altText": "Un électricien au travail, un métier en pénurie",
-                "caption": "Reconversion réussie : de bureau à chantier",
-                "width": 800,
-                "height": 600,
-                "formats": {
-                  "thumbnail": {
-                    "name": "thumbnail_cover1.jpg",
-                    "width": 200,
-                    "height": 150,
-                    "url": "/images/blog/thumbnails/thumbnail_cover1.jpg"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "id": 2,
-        "attributes": {
-          "title": "Pourquoi choisir une carrière dans l'hôtellerie maintenant ?",
-          "description": "Avec une pénurie de professionnels qualifiés dans l'hôtellerie, c'est le moment idéal pour se lancer. Voici ce que vous devez savoir.",
-          "content": "L'industrie hôtelière souffre d'une pénurie aiguë de main-d'œuvre qualifiée. Dans cet article, nous discutons des raisons pour lesquelles maintenant est le moment parfait pour envisager une carrière dans l'hôtellerie. Nous abordons également les défis et les récompenses de cette industrie, fournissant des perspectives réelles et des conseils pratiques pour ceux qui souhaitent faire le saut...",
-          "tags": ["Hôtellerie", "Carrières en pénurie", "Formation", "Opportunités de carrière"],
-          "created_at": "2024-02-10T12:00:00Z",
-          "updated_at": "2024-02-15T12:00:00Z",
-          "coverImage": {
-            "data": {
-              "id": 2,
-              "attributes": {
-                "path": "/images/blog/cover2.jpg",
-                "altText": "Un chef de cuisine en action",
-                "caption": "De la passion à la profession : le parcours d'un chef",
-                "width": 800,
-                "height": 600,
-                "formats": {
-                  "thumbnail": {
-                    "name": "thumbnail_cover2.jpg",
-                    "width": 200,
-                    "height": 150,
-                    "url": "/images/blog/thumbnails/thumbnail_cover2.jpg"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "id": 3,
-        "attributes": {
-          "title": "La montée des techniciens en énergies renouvelables",
-          "description": "Explorez la croissance rapide des carrières dans le secteur des énergies renouvelables et comment vous pouvez vous y reconvertir.",
-          "content": "Alors que le monde s'oriente de plus en plus vers des sources d'énergie durables, la demande pour des techniciens qualifiés dans les énergies renouvelables ne cesse de croître. Cet article détaille les différentes voies de formation disponibles pour ceux qui souhaitent se lancer dans ce secteur d'avenir. Nous discutons également des défis et des bénéfices de ce choix de carrière, offrant un aperçu réaliste des possibilités d'emploi et de progression.",
-          "tags": ["Énergies renouvelables", "Formation", "Emplois verts", "Technicien"],
-          "created_at": "2024-03-01T12:00:00Z",
-          "updated_at": "2024-03-05T12:00:00Z",
-          "coverImage": {
-            "data": {
-              "id": 3,
-              "attributes": {
-                "path": "/images/blog/cover3.jpg",
-                "altText": "Technicien éolien en action",
-                "caption": "Naviguer dans le futur : Carrières dans les énergies renouvelables",
-                "width": 800,
-                "height": 600,
-                "formats": {
-                  "thumbnail": {
-                    "name": "thumbnail_cover3.jpg",
-                    "width": 200,
-                    "height": 150,
-                    "url": "/images/blog/thumbnails/thumbnail_cover3.jpg"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "id": 4,
-        "attributes": {
-          "title": "Réinventer sa carrière dans la cybersécurité",
-          "description": "La demande pour les experts en cybersécurité est en hausse. Découvrez comment vous pouvez faire partie de ce domaine dynamique et crucial.",
-          "content": "Avec l'augmentation constante des menaces numériques, la cybersécurité est devenue un champ essentiel pour la protection des informations et des systèmes. Cet article explore les compétences nécessaires pour réussir dans la cybersécurité, les formations disponibles et les types de rôles que vous pourriez occuper. Que vous soyez un novice en technologie ou que vous cherchiez à affiner vos compétences, il existe des opportunités abondantes dans ce secteur.",
-          "tags": ["Cybersécurité", "Carrière technologique", "Formation", "Sécurité des données"],
-          "created_at": "2024-04-12T12:00:00Z",
-          "updated_at": "2024-04-17T12:00:00Z",
-          "coverImage": {
-            "data": {
-              "id": 4,
-              "attributes": {
-                "path": "/images/blog/cover4.jpg",
-                "altText": "Expert en cybersécurité devant des écrans de code",
-                "caption": "Protéger l'avenir : Les pionniers de la cybersécurité",
-                "width": 800,
-                "height": 600,
-                "formats": {
-                  "thumbnail": {
-                    "name": "thumbnail_cover4.jpg",
-                    "width": 200,
-                    "height": 150,
-                    "url": "/images/blog/thumbnails/thumbnail_cover4.jpg"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }      
+      {"_id":{"$oid":"66618ea84fabfcf45427b179"},"title":"Vivez avec nous l'histoire de Stephanie 27 ans, anciennement pharmacienne devenue créatrice de vêtements","content":"<div className='prose prose-lg mx-auto'><p>Stephanie, 27 ans, a toujours eu une passion pour la mode. Après des années passées à travailler comme pharmacienne, elle a décidé de suivre son rêve et de devenir créatrice de vêtements. Ce changement de carrière n'a pas été facile, mais avec détermination et soutien, Stephanie a réussi à se faire une place dans le monde de la mode.</p><h2>Le parcours de Stephanie</h2><p>Stephanie a commencé sa carrière en tant que pharmacienne après avoir obtenu son diplôme. Bien qu'elle aimait aider les gens, elle sentait toujours qu'il manquait quelque chose dans sa vie professionnelle. Sa passion pour la mode était toujours présente en arrière-plan.</p><h2>La décision de changer de carrière</h2><p>Un jour, Stephanie a décidé qu'il était temps de faire un changement. Elle a commencé par suivre des cours de design de mode pendant son temps libre. Ces cours lui ont permis de développer ses compétences et de se constituer un portfolio.</p><h2>Les défis rencontrés</h2><p>Le changement de carrière de Stephanie n'a pas été sans défis. Elle a dû faire face à des doutes personnels et à la résistance de certaines personnes dans son entourage. Cependant, elle a persévéré et a continué à travailler dur pour atteindre ses objectifs.</p><h2>Le succès en tant que créatrice de vêtements</h2><p>Aujourd'hui, Stephanie est une créatrice de vêtements accomplie. Elle a sa propre marque et ses créations sont vendues dans plusieurs boutiques. Elle est la preuve vivante que suivre ses rêves, même lorsque cela semble difficile, peut mener à un grand succès et à une satisfaction personnelle.</p><p>Si vous êtes dans une situation similaire à celle de Stephanie, sachez qu'il n'est jamais trop tard pour suivre vos passions et réinventer votre carrière. Avec détermination et travail acharné, tout est possible.</p></div>","author":"Jane Smith","tags":["reconversion professionnelle","mode","créatrice de vêtements","pharmacienne"],"category":"Reconversion Professionnelle","createdAt":"2024-06-06T10:00:00Z","updatedAt":"2024-06-06T10:00:00Z","published":true,"coverImage":"https://example.com/stephanie_story.jpg","excerpt":"Découvrez l'histoire inspirante de Stephanie, qui a quitté sa carrière de pharmacienne pour devenir une créatrice de vêtements à succès."},
+      {"_id":{"$oid":"66618fef4fabfcf45429a564"},"title":"De banquier à électricien : L'histoire inspirante de Marc, 35 ans","content":"<div className='prose prose-lg mx-auto'><p>Marc, 35 ans, a travaillé comme banquier pendant plus de dix ans. Cependant, il a toujours ressenti une insatisfaction dans son travail quotidien. Avec le soutien de sa famille, Marc a décidé de se reconvertir en électricien, un métier qui l'a toujours attiré pour sa dimension technique et pratique.</p><h2>Pourquoi devenir électricien ?</h2><p>Le métier d'électricien offre de nombreuses opportunités, en particulier dans le secteur de la construction et de la rénovation. Pour Marc, c'était l'occasion de travailler de manière plus tangible et de voir directement les résultats de son travail.</p><h2>Le parcours de formation de Marc</h2><p>Marc a suivi une formation professionnelle en électricité, apprenant les bases du métier et les normes de sécurité essentielles. Il a également effectué plusieurs stages pour acquérir de l'expérience pratique.</p><h2>Les défis de la reconversion</h2><p>Changer de carrière n'a pas été facile pour Marc. Il a dû surmonter des doutes personnels et s'adapter à un tout nouveau domaine. Cependant, avec détermination et persévérance, il a réussi à s'intégrer dans ce nouveau métier.</p><h2>Une nouvelle carrière réussie</h2><p>Aujourd'hui, Marc est un électricien respecté dans sa région. Il apprécie chaque jour les défis que son travail lui apporte et ne regrette absolument pas son choix de carrière.</p><p>Si vous envisagez de changer de carrière pour un métier en tension comme celui d'électricien, n'hésitez pas à suivre l'exemple de Marc. Avec la bonne formation et une forte détermination, tout est possible.</p></div>","author":"Sarah Johnson","tags":["reconversion professionnelle","électricien","banquier"],"category":"Reconversion Professionnelle","createdAt":"2024-06-07T10:00:00Z","updatedAt":"2024-06-07T10:00:00Z","published":true,"coverImage":"https://example.com/marc_electricien.jpg","excerpt":"Découvrez l'histoire de Marc, ancien banquier devenu électricien, et les défis qu'il a surmontés pour réussir sa reconversion."},
+      {"_id":{"$oid":"66618ffe4fabfcf45429b65c"},"title":"Marie, 40 ans, passe de comptable à infirmière : Un parcours courageux","content":"<div className='prose prose-lg mx-auto'><p>À 40 ans, Marie a décidé de quitter sa carrière de comptable pour devenir infirmière. Inspirée par son désir d'aider les autres et de faire une différence dans la vie des patients, elle a entrepris un chemin de reconversion audacieux mais gratifiant.</p><h2>Pourquoi devenir infirmière ?</h2><p>Le secteur de la santé est toujours à la recherche de professionnels dévoués. Pour Marie, le métier d'infirmière représentait une opportunité de travailler dans un domaine où elle pouvait avoir un impact direct et positif sur les gens.</p><h2>La formation et les étapes de la reconversion</h2><p>Marie a suivi une formation intensive en soins infirmiers, comprenant des cours théoriques et des stages pratiques en milieu hospitalier. Cette formation lui a permis d'acquérir les compétences nécessaires pour exceller dans ce nouveau rôle.</p><h2>Les défis rencontrés</h2><p>Changer de carrière à 40 ans n'est pas une tâche facile. Marie a dû jongler entre ses études, ses responsabilités familiales et ses doutes personnels. Cependant, son engagement et sa passion pour le métier l'ont aidée à surmonter ces obstacles.</p><h2>Une nouvelle vie en tant qu'infirmière</h2><p>Aujourd'hui, Marie travaille comme infirmière dans un hôpital local. Elle trouve son travail extrêmement gratifiant et apprécie chaque interaction avec ses patients. Son histoire est un témoignage de courage et de détermination.</p><p>Si vous envisagez une reconversion professionnelle vers le secteur de la santé, l'histoire de Marie montre qu'il n'est jamais trop tard pour poursuivre vos rêves et faire une différence.</p></div>","author":"Alexandre Lefevre","tags":["reconversion professionnelle","infirmière","comptable"],"category":"Reconversion Professionnelle","createdAt":"2024-06-08T10:00:00Z","updatedAt":"2024-06-08T10:00:00Z","published":true,"coverImage":"https://example.com/marie_infirmiere.jpg","excerpt":"Découvrez le parcours courageux de Marie, qui a quitté sa carrière de comptable pour devenir infirmière, et les défis qu'elle a surmontés."},
+      {"_id":{"$oid":"6661901a4fabfcf45429d32b"},"title":"L'histoire de Paul, 45 ans, de chef de projet à développeur web","content":"<div className='prose prose-lg mx-auto'><p>À 45 ans, Paul a décidé de changer de carrière, passant de chef de projet à développeur web. Passionné par les nouvelles technologies et le développement de sites web, Paul a suivi un parcours de reconversion qui lui a permis de réaliser son rêve de travailler dans le secteur informatique.</p><h2>Pourquoi devenir développeur web ?</h2><p>Le métier de développeur web est en forte demande et offre de nombreuses opportunités. Pour Paul, c'était l'occasion de combiner sa passion pour la technologie avec ses compétences en gestion de projet.</p><h2>La formation suivie par Paul</h2><p>Paul a suivi un bootcamp intensif en développement web, où il a appris les langages de programmation tels que HTML, CSS, JavaScript, et les frameworks populaires comme React et Node.js. Il a également travaillé sur des projets pratiques pour acquérir de l'expérience.</p><h2>Les défis de la reconversion</h2><p>Changer de carrière à 45 ans a posé des défis uniques pour Paul, notamment le besoin de s'adapter à un environnement de travail complètement nouveau et de se familiariser avec des technologies en constante évolution. Néanmoins, sa détermination et sa passion l'ont aidé à surmonter ces obstacles.</p><h2>Une nouvelle carrière réussie</h2><p>Aujourd'hui, Paul est un développeur web accompli, travaillant sur des projets variés et innovants. Il apprécie chaque jour les défis et les opportunités que son nouveau métier lui apporte.</p><p>Si vous envisagez une reconversion professionnelle vers le développement web, l'histoire de Paul montre qu'il n'est jamais trop tard pour apprendre de nouvelles compétences et poursuivre vos passions.</p></div>","author":"Isabelle Martin","tags":["reconversion professionnelle","développeur web","chef de projet"],"category":"Reconversion Professionnelle","createdAt":"2024-06-09T10:00:00Z","updatedAt":"2024-06-09T10:00:00Z","published":true,"coverImage":"https://example.com/paul_developpeur.jpg","excerpt":"Découvrez le parcours de Paul, qui a quitté son poste de chef de projet pour devenir développeur web, et les défis qu'il a relevés pour réussir sa reconversion."},
+      {"_id":{"$oid":"666191f14fabfcf4542bdb4c"},"title":"5 entreprises qui vous aident à réussir votre reconversion professionnelle","content":"<div className='prose prose-lg mx-auto'><p>La reconversion professionnelle peut être un parcours semé d'embûches, mais heureusement, certaines entreprises sont là pour vous aider à franchir le pas. Dans cet article, nous vous présentons cinq entreprises qui offrent des services de reconversion professionnelle et des programmes de formation pour faciliter votre transition vers un nouveau métier.</p><h2>1. OpenClassNamerooms</h2><p>OpenClassNamerooms propose des parcours diplômants en ligne dans des domaines variés tels que le développement web, le marketing digital, et la gestion de projet. Leurs programmes incluent un mentorat personnalisé pour vous accompagner tout au long de votre formation.</p><h2>2. LinkedIn Learning</h2><p>LinkedIn Learning offre une vaste bibliothèque de cours en ligne pour développer vos compétences professionnelles. Que vous souhaitiez apprendre une nouvelle langue de programmation ou améliorer vos compétences en gestion, LinkedIn Learning a quelque chose pour vous.</p><h2>3. Simplon</h2><p>Simplon est une entreprise sociale qui propose des formations gratuites aux métiers du numérique pour les personnes éloignées de l'emploi. Leur approche inclusive et leur réseau de partenaires font de Simplon une excellente option pour ceux qui souhaitent se reconvertir dans le secteur du numérique.</p><h2>4. Switch Collective</h2><p>Switch Collective propose des programmes d'accompagnement pour ceux qui cherchent à donner du sens à leur carrière. Leurs ateliers et formations vous aident à identifier vos passions et à construire un projet professionnel aligné avec vos aspirations.</p><h2>5. Pôle Emploi</h2><p>Pôle Emploi offre des ressources et des conseils pour la reconversion professionnelle, notamment des bilans de compétences, des formations financées, et des aides à la recherche d'emploi. Leur site web regorge d'informations utiles pour ceux qui envisagent une transition de carrière.</p><p>Si vous êtes en quête de nouvelles opportunités professionnelles, n'hésitez pas à explorer les services offerts par ces entreprises. Avec le bon accompagnement et les ressources adéquates, vous pouvez réussir votre reconversion professionnelle et atteindre vos objectifs de carrière.</p></div>","author":"Lucie Dupont","tags":["reconversion professionnelle","entreprises","formation"],"category":"Ressources","createdAt":"2024-06-10T10:00:00Z","updatedAt":"2024-06-10T10:00:00Z","published":true,"coverImage":"https://example.com/reconversion_entreprises.jpg","excerpt":"Découvrez cinq entreprises qui vous aident à réussir votre reconversion professionnelle avec des programmes de formation et des services d'accompagnement."},
+      {"_id":{"$oid":"6661920d4fabfcf4542bfc6b"},"title":"Les 7 meilleurs sites de ressources pour votre reconversion professionnelle","content":"<div className='prose prose-lg mx-auto'><p>La reconversion professionnelle nécessite des outils et des ressources pour réussir. Dans cet article, nous avons sélectionné sept sites incontournables qui offrent des conseils, des formations et des outils pour vous aider dans votre transition de carrière.</p><h2>1. Apec</h2><p>L'Apec (Association pour l'emploi des cadres) propose des conseils et des ressources pour les cadres et les jeunes diplômés qui souhaitent se reconvertir. Leur site web offre des outils d'auto-évaluation et des informations sur les métiers porteurs.</p><h2>2. Mon Compte Formation</h2><p>Mon Compte Formation permet aux travailleurs de consulter leurs droits à la formation et de s'inscrire à des formations éligibles au CPF (Compte Personnel de Formation). C'est une ressource précieuse pour financer votre reconversion.</p><h2>3. HelloWork</h2><p>HelloWork propose des offres d'emploi, des conseils de carrière, et des informations sur les métiers en tension. Leur site est une mine d'or pour ceux qui cherchent à changer de secteur professionnel.</p><h2>4. Emploi Store</h2><p>L'Emploi Store, géré par Pôle Emploi, offre une multitude de services en ligne pour la recherche d'emploi et la reconversion professionnelle. Vous y trouverez des formations, des outils de bilan de compétences, et des informations sur les secteurs qui recrutent.</p><h2>5. LinkedIn</h2><p>LinkedIn est un réseau professionnel qui vous permet de créer un profil en ligne, de vous connecter avec des professionnels de votre secteur, et de découvrir des opportunités de formation et de reconversion.</p><h2>6. Glassdoor</h2><p>Glassdoor offre des avis sur les entreprises, des informations sur les salaires, et des conseils de carrière. C'est un excellent outil pour évaluer les opportunités de reconversion et choisir le bon employeur.</p><h2>7. Indeed</h2><p>Indeed est un moteur de recherche d'emploi qui propose également des ressources pour la reconversion professionnelle, notamment des guides de carrière et des formations en ligne.</p><p>Ces sites offrent une multitude de ressources pour vous accompagner dans votre reconversion professionnelle. N'hésitez pas à explorer leurs services pour trouver les outils et les informations dont vous avez besoin pour réussir votre transition de carrière.</p></div>","author":"Thomas Leroy","tags":["reconversion professionnelle","ressources","sites web"],"category":"Ressources","createdAt":"2024-06-11T10:00:00Z","updatedAt":"2024-06-11T10:00:00Z","published":true,"coverImage":"https://example.com/reconversion_sites.jpg","excerpt":"Découvrez les sept meilleurs sites de ressources pour vous aider dans votre reconversion professionnelle avec des conseils, des formations et des outils utiles."},
+      {"_id":{"$oid":"6661922a4fabfcf4542c2180"},"title":"Découverte de la cybersécurité : Un secteur en pleine croissance","content":"<div className='prose prose-lg mx-auto'><p>La cybersécurité est un secteur en pleine expansion, offrant de nombreuses opportunités de carrière pour ceux qui souhaitent se reconvertir. Avec l'augmentation des cyberattaques et la nécessité de protéger les données sensibles, la demande pour les professionnels de la cybersécurité n'a jamais été aussi forte.</p><h2>Pourquoi choisir la cybersécurité ?</h2><p>Le secteur de la cybersécurité offre des emplois bien rémunérés et une sécurité de l'emploi élevée. Les entreprises de tous les secteurs recherchent des experts pour protéger leurs systèmes et leurs données.</p><h2>Les compétences nécessaires</h2><p>Pour réussir dans la cybersécurité, il est essentiel d'avoir des compétences en informatique et en réseau, ainsi qu'une compréhension des menaces et des vulnérabilités. Des certifications comme CISSP, CEH, et CompTIA Security+ peuvent également être très utiles.</p><h2>Les formations disponibles</h2><p>De nombreuses formations en cybersécurité sont disponibles en ligne et en présentiel. Des plateformes comme Coursera, Udemy, et Cybrary proposent des cours pour tous les niveaux, du débutant à l'expert.</p><h2>Les débouchés professionnels</h2><p>Les professionnels de la cybersécurité peuvent travailler dans divers rôles, tels que consultant en sécurité, analyste SOC, administrateur réseau, et bien d'autres. Les opportunités sont vastes et variées, offrant des perspectives de carrière intéressantes.</p><h2>Les défis du secteur</h2><p>Travailler dans la cybersécurité peut être exigeant, avec des horaires parfois irréguliers et une pression constante pour rester à jour avec les dernières menaces et technologies. Cependant, pour ceux qui sont passionnés par la sécurité informatique, c'est un domaine extrêmement gratifiant.</p><p>Si vous envisagez une reconversion professionnelle vers un secteur en croissance, la cybersécurité pourrait être une excellente option. Avec la bonne formation et un engagement fort, vous pouvez bâtir une carrière réussie dans ce domaine passionnant.</p></div>","author":"Julie Martin","tags":["reconversion professionnelle","cybersécurité","secteur en croissance"],"category":"Découverte de Secteur","createdAt":"2024-06-12T10:00:00Z","updatedAt":"2024-06-12T10:00:00Z","published":true,"coverImage":"https://example.com/cybersecurite.jpg","excerpt":"Découvrez le secteur de la cybersécurité, ses opportunités de carrière, les compétences nécessaires et les formations disponibles pour réussir dans ce domaine en pleine croissance."}
+
     ]
   }
   

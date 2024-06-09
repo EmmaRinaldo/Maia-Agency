@@ -5,10 +5,9 @@ import { Link } from 'react-router-dom'
 function Header() {
   return (
     <nav className='flex justify-between items-center'>
-        
-        <img src={logo} className="w-[180px]" alt="Image qui illustre le logo de l'entreprise [ ]" />
+
+        <Link to="/"><img src={logo} className="w-[180px]" alt="Image qui illustre le logo de l'entreprise [ ]" /></Link>
         <ul className='flex gap-4 md:gap-14'>
-            <li className='hover:font-bold cursor-pointer text-white'><Link to="/">Home</Link></li>
             <li className='hover:font-bold cursor-pointer'><Link to="/test">Test</Link></li>
             <li className='hover:font-bold cursor-pointer'><Link to="/blog">Blog</Link></li>
             <li className='hover:font-bold cursor-pointer'><Link to="/a-propos">A propos</Link></li>
